@@ -1,0 +1,5 @@
+python-dotenv
+pandas
+isodate
+requests
+psycopg2-binary
